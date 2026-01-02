@@ -14,5 +14,5 @@
     - mastodon: https://mastodon.social/@shayansm
     - github: https://github.com/shayansm2
     - personalSite: https://shayansm2.github.io/
-    - blogs: https://substack.com/@shayansm
+    - blogs: https://shayansm.substack.com/
 ```
